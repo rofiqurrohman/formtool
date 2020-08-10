@@ -1,0 +1,21 @@
+@import "formtool.css";
+@import "preview.css";
+
+@font-face {
+    font-family: raleway;
+    src: url(../font/Raleway-Regular.ttf);
+  }
+@font-face {
+    font-family: lato;
+    src: url(../font/Lato-Regular.ttf);
+  }
+
+body{
+    font-family: lato;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}  
+ 
+h3{
+  color: rgb(68, 68, 238);
+}
